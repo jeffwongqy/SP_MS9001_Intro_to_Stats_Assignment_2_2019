@@ -1,1 +1,3 @@
-# SP_MS9001_Intro_to_Stats_Assignment_2_2019
+# SP MS9001 Introduction to Statistics Assignment 2 2019
+
+This assignment 2 mainly focuses on inferential statistics. 
